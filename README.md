@@ -28,13 +28,13 @@ it will save up to 97976 lines
 
 1. Clone the repository:
 
-   git clone https://github.com/{username}/{repository}.git
+   `git clone https://github.com/kanfur/readFromCsv.git`
 2. Install dependencies:
 
-   composer install
+   `composer install`
 3. Start the Docker containers:
 
-    docker-compose up -d --build
+   `docker-compose up -d --build`
 4. Access the web interface at http://localhost:8000.
 
 ## Usage
