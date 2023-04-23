@@ -61,4 +61,4 @@ The "Dataset" page displays a table of imported data with the following columns:
 - Age
 - Credits
 
-This project was created by [your name] and is licensed under the MIT license.
+This project was created by H. Furkan Ozturk and is licensed under the MIT license.
