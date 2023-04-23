@@ -59,6 +59,6 @@ The "Dataset" page displays a table of imported data with the following columns:
 - Gender
 - Birth Date
 - Age
-- Credits
+- Age Range
 
 This project was created by **H. Furkan Ozturk** and is licensed under the MIT license.
