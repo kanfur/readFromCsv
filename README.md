@@ -42,7 +42,7 @@ it will save up to 97976 lines
 ### Uploading a CSV file
 
 1. Click on the "Upload From File" button on the homepage.
-2. Select a CSV file to upload.
+2. Select a CSV file to upload (There is already a big file named dataset.txt on the repository).
 3. Click on the "File Import" button to import the data into the database.
 
 ### Filtering the data
